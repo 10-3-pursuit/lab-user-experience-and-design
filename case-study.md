@@ -9,9 +9,9 @@ For this analysis, the following methods were employed:
 
 One positive observation while viewing an item on the desktop eBay website is the implementation of a media query for the screen width. If the screen width is less than 768px, the website changes to a single column layout with the search bar at the top, the item photo below it, and all relevant information placed beneath the photo. This approach can improve user experience for users who open multiple windows on their desktop. Both Wish and Amazon's websites do not adapt to a narrower screen width, causing content to disappear as the width decreases.
 
-![Screenshot of Mobile Responsiveness](./assets/width1.png)
-![Screenshot of Mobile Responsiveness](./assets/width2.png)
-![Screenshot of Mobile Responsiveness](./assets/width3.png)
+<img src="./assets/width1.png" alt="width1" width="500"/>
+<img src="./assets/width2.png" alt="width2" width="500"/>
+<img src="./assets/width3.png" alt="width3" width="500"/>
 
 Another noteworthy observation pertains to Wish directly. eBay and Amazon both have a 'Buy It Now' button, while Wish requires users to add items to their cart before making a purchase (can be seen in the images below). This additional step on Wish could potentially discourage impulse buying, as it complicates the purchase process. Having the "Buy It Now" button on Ebay improves user experience by removing that step.
 
@@ -19,9 +19,9 @@ eBay seems to follow a general design pattern common to other online selling web
 
 One issue that caught my attention is in eBay's product display. When viewing a product, there are no individual user reviews for purchased products. While Wish and Amazon display user reviews for the product, Amazon goes a step further by allowing users to post pictures and videos along with their reviews.
 
-![Screenshot of Mobile Responsiveness](./assets/review1.png)
-![Screenshot of Mobile Responsiveness](./assets/review2.png)
-![Screenshot of Mobile Responsiveness](./assets/review3.png)
+<img src="./assets/review1.png" alt="review1" width="500"/>
+<img src="./assets/review2.png" alt="review2" width="500"/>
+<img src="./assets/review3.png" alt="review3" width="500"/>
 
 The lack of product-specific reviews on eBay may lead users to leave the eBay website in search of reviews (which could be frustrating). It could also lead users to a similar item on a competitor's website (potentially at a better price point), resulting in lost sales for both the seller and eBay.
 
