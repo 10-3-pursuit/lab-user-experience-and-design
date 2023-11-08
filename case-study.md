@@ -20,7 +20,10 @@ Addressing these UX issues is crucial for several reasons:
 - **Error Prevention:** Implementing error prevention mechanisms enhances user efficiency, reducing mistakes during transactions.
 
 ## Recommendations:
+Landing Page Recommendation
 ![Recommendation](assets/recommendation.png)
+Cart Recommendation
+![Cart Recommendation](assets/cart-recommendation.png)
 
 ## Conclusions:
-Adopting a minimalist approach can significantly enhance the website's efficiency and user engagement. Prioritizing UX improvements will likely increase user satisfaction and encourage longer website interactions.
+Adopting a minimalist approach and ensuring error preventors can significantly enhance the website's efficiency and user engagement. Prioritizing UX improvements will likely increase user satisfaction and encourage longer website interactions.
