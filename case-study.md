@@ -23,6 +23,8 @@ The suboptimal visibility of the shopping cart icon can have far-reaching conseq
 - **Reduced Engagement**: A less visible cart may result in fewer impulse purchases and a diminished overall shopping experience.
 - **Lower Sales**: eBay's revenue may be affected as a result of reduced user engagement and cart utilization.
 
+![Screen shot of ebay](./assets/Screenshot%202023-11-08%20at%203.46.54 PM.png)  
+
 ## Recommendations
 To address the issues identified and improve user engagement with the shopping cart icon, we recommend the following actionable steps:
 1. **Increase Shopping Cart Icon Size**: Enlarge the shopping cart icon to make it more prominent and easily distinguishable from other page elements.
