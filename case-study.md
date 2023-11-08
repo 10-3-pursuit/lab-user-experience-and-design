@@ -13,7 +13,7 @@ One positive observation while viewing an item on the desktop eBay website is th
 ![Screenshot of Mobile Responsiveness](./assets/width2.png)
 ![Screenshot of Mobile Responsiveness](./assets/width3.png)
 
-Another noteworthy observation pertains to Wish directly. eBay and Amazon both have a 'Buy It Now' button, while Wish requires users to add items to their cart before making a purchase (can be seen in the images below). This additional step on Wish could potentially discourage impulse buying, as it complicates the purchase process.
+Another noteworthy observation pertains to Wish directly. eBay and Amazon both have a 'Buy It Now' button, while Wish requires users to add items to their cart before making a purchase (can be seen in the images below). This additional step on Wish could potentially discourage impulse buying, as it complicates the purchase process. Having the "Buy It Now" button on Ebay improves user experience by removing that step.
 
 eBay seems to follow a general design pattern common to other online selling websites like Wish and Amazon, displaying general categories for users, showcasing the latest deals, providing seller reviews, and offering product descriptions at the bottom of the page.
 
