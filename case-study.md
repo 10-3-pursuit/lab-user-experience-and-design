@@ -23,4 +23,17 @@ Here's a little outline:
 -It's quite a turnoff when the user searches for 'sneakers' and the first item listed amongst the majority, is a car mirror. 
 -As the user starts to scroll further down and through their choices, lo' and behold, there's even more VOLVO car parts. Look for another second *screenshot file* in the 'assets' folder, showing three car parts as mentioned. 
 
+##### Impact Assessment
+The impact of one of my findings -- for instance, the odd findings of VOLVO car parts popping up for a 'sneakers' search, is that the user will immediately be thrown-off, even log-off the site and go elsewhere to search for sneakers, because there's so many other sneaker sites.
 
+###### Recommendations
+I've chosen the sitemaps flow of clickable links to demonstrate how a user would first enter the site, to where the user does a search for 'sneakers' and what results:
+1. (https://www.ebay.com/)
+2. (https://www.ebay.com/sch/i.html?_from=R40&_trksid=p4432023.m570.l1313&_nkw=sneakers&_sacat=0)
+The end result will show what results in a very confusing first listed item, for a VOLVO car part, instead of the very first item being any type of sneaker or shoe.
+
+###### # Conclusion
+I've concluded, there's a glitch. Tried the simple search for 'sneakers' a few times again and again, yet there's still *VOLVO car parts* result amongst the list of sneakers. AGAIN, refer to the screenshots in the 'assets' file or click on the links listed above in the previous question.
+
+###### ## Extra
+The design and visual aesthetic of the (https://www.ebay.com/) site is just unappealing. Whether you do a search, or the user is just about sticking on landing page.
