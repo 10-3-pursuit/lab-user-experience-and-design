@@ -21,3 +21,6 @@
    Help users recognize, diagnose, and recover from errors: eBay offers assistance via a button that says "Help & Contact" on the upper left corner. It shows that they prioritize being able to help users. With the additional help of a chat with an AI or virtual assistants.
 
    Help and documentation: Even though they offer help through a button, it is not sufficient enough especially if they want to attract a wide variety of consumers.
+
+3. Good UX findings:
+   eBay makes shopping easy with lots of details about the products that they offer. They also have a search bar that helps simplify searching for items to buy. Their checkout process is also pretty standard where they show what you have in your cart, the subtotal and the total of the entire cart
