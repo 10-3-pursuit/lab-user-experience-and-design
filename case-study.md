@@ -7,7 +7,7 @@ For this analysis, the following methods were employed:
 - **Site Research**: Investigating the website's structure, content, and functionality.
 - **Click-through and Assessment**: Navigating the website and assessing user interactions.
 
-One positive observation while viewing an item on the desktop eBay website is the implementation of a media query for the screen width. If the screen width is less than 768px, the website changes to a single column layout with the search bar at the top, the item photo below it, and all relevant information placed beneath the photo. This approach can improve user experience for users who open multiple windows on their desktop. Both Wish and Amazon's websites do not adapt to a narrower screen width, causing content to disappear as the width decreases.
+One positive observation about the UX design while viewing an item on the desktop eBay website is the implementation of a media query for the screen width. If the screen width is less than 768px, the website changes to a single column layout with the search bar at the top, the item photo below it, and all relevant information placed beneath the photo. This approach can improve user experience for users who open multiple windows on their desktop. Both Wish and Amazon's websites do not adapt to a narrower screen width, causing content to disappear as the width decreases.
 
 <img src="./assets/width1.png" alt="width1" width="500"/>
 <img src="./assets/width2.png" alt="width2" width="500"/>
@@ -17,13 +17,13 @@ Another noteworthy observation pertains to Wish directly. eBay and Amazon both h
 
 eBay seems to follow a general design pattern common to other online selling websites like Wish and Amazon, displaying general categories for users, showcasing the latest deals, providing seller reviews, and offering product descriptions at the bottom of the page.
 
-One issue that caught my attention is in eBay's product display. When viewing a product, there are no individual user reviews for purchased products. While Wish and Amazon display user reviews for the product, Amazon goes a step further by allowing users to post pictures and videos along with their reviews.
+One issue with the UX design that caught my attention is in eBay's product display. When viewing a product, there are no individual user reviews for purchased products. While Wish and Amazon display user reviews for the product, Amazon goes a step further by allowing users to post pictures and videos along with their reviews.
 
 <img src="./assets/review1.png" alt="review1" width="500"/>
 <img src="./assets/review2.png" alt="review2" width="500"/>
 <img src="./assets/review3.png" alt="review3" width="500"/>
 
-The lack of product-specific reviews on eBay may lead users to leave the eBay website in search of reviews (which could be frustrating). It could also lead users to a similar item on a competitor's website (potentially at a better price point), resulting in lost sales for both the seller and eBay.
+The lack of product-specific reviews on eBay may impact the users by leading them to leave the eBay website in search of reviews (which could be frustrating). It could also lead users to a similar item on a competitor's website (potentially at a better price point), resulting in lost sales for both the seller and eBay.
 
 I believe that having a readily available and reliable source of reviews is crucial for helping users make informed purchasing decisions. It enables users to quickly access the information they need to decide whether to buy a product and helps eBay gather insights into customer satisfaction. I recommend that eBay implement a feature that allows users to leave reviews, including photos and videos, to enhance the overall shopping experience.
 
