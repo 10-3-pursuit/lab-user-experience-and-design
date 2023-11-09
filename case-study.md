@@ -18,7 +18,7 @@ Aesthetic and minimalist design: there are a lot of advertised products in the l
 Due to competing elements present in the landing page, users may not be incentivized to stay in the website for longers than 10 seconds, which is the average time consumers typically spend on websites. As a result, Ebay may not be able to convert the web traffic they receive into sales, which hurts EBay's business. Furthermore, customers may not be willing to return to the unaesthetically pleasing website, so Ebay may not have too many returning customers.
 
 ## Recommendations
-Ebay may benefit from having less elements on the landing page and specifically less products. Ebay may make use of CSS grid to layout their landing page differently, with less advertised products. Here is an example using a low fidelity wireframe: ![lofi wireframe of ebay landing page](assets/E93FFA69-0A58-4F77-924A-E6FF8510B6C2.heic)
+Ebay may benefit from having less elements on the landing page and specifically less products. Ebay may make use of CSS grid to layout their landing page differently, with less advertised products. Here is an example using a low fidelity wireframe: [lofi wireframe of ebay landing page](assets/E93FFA69-0A58-4F77-924A-E6FF8510B6C2.heic)
 
 
 
