@@ -23,6 +23,4 @@ Ebay may benefit from having less elements on the landing page and specifically 
 
 
 ## Conclusion
-Ebay, an e-commerce site, has a lot of products being advertised on their landing page. 
-
-## Extras
+Ebay, an e-commerce site, has a lot of products being advertised on their landing page. Ebay can use more minimalist features such as less pictures of products, to improve its site.
