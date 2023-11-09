@@ -30,3 +30,6 @@
 
 5. Impact Assessment:
    The effects that bad UX on eBay can cost them a low conversion. Having a hard time navigating a website can turn them away and prompt them to find a more simple website where the steps to find an items and place it for checkout would take a shorter time.
+
+6. Recommendations:
+   I would recommend for ebay to have a virtual assistant, an efficient check out system and a better mobile app. The virutal assistant would help anyone who is having trouble with using the app. An efficient check out system would allow first time users to return since they see that the app can be reliable. Meanwhile, having an improved mobile app can boost user retention since having a mobile app can encourage user to browse while on the go.
