@@ -21,6 +21,6 @@ Due to competing elements present in the landing page, users may not be incentiv
 Ebay may benefit from having less elements on the landing page and specifically less products. Ebay may make use of CSS grid to layout their landing page differently, with less advertised products.
 
 ## Conclusion
-
+Ebay, an e-commerce site, has a lot of products being advertised on their landing page. 
 
 ## Extras
