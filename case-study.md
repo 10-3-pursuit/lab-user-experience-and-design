@@ -15,7 +15,7 @@ User control and freedom: Ebay has an active/moving banner that advertises diffe
 Aesthetic and minimalist design: there are a lot of advertised products in the landing page. These competing products take away from each other and from the user's desire to search for an item that they need.
 
 ## Impact Assessment
-Due to competing elements present in the landing page, users may not be incentivized to stay in the website for longers than 10 seconds, which is the average time consumers typically spend on websites.
+Due to competing elements present in the landing page, users may not be incentivized to stay in the website for longers than 10 seconds, which is the average time consumers typically spend on websites. As a result, Ebay may not be able to convert the web traffic they receive into sales, which hurts EBay's business. Furthermore, customers may not be willing to return to the unaesthetically pleasing website, so Ebay may not have too many returning customers.
 
 ## Recommendations
 
