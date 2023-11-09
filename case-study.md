@@ -1,5 +1,5 @@
 ## Introduction
-
+Ebay is an e-commerce site that allows users to buy and sell goods.
 
 ## Methodology
 
