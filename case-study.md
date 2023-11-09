@@ -33,3 +33,6 @@
 
 6. Recommendations:
    I would recommend for ebay to have a virtual assistant, an efficient check out system and a better mobile app. The virutal assistant would help anyone who is having trouble with using the app. An efficient check out system would allow first time users to return since they see that the app can be reliable. Meanwhile, having an improved mobile app can boost user retention since having a mobile app can encourage user to browse while on the go.
+
+7. Conclusion:
+   My conclusion is that design plays an important role in how you want users to approach your app or website. It can impact audience retention and conversion which is very important especially if you're looking at a business or commerce platform.
