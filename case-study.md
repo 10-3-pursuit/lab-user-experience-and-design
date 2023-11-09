@@ -10,7 +10,7 @@ The previous design of the registration page posed significant challenges, with 
 ## Objectives
 The primary objectives of this case study were to:
 
-1. Evaluate the impact of resizing and optimizing the placement of the image or removing the image to minimize distraction and improve the focus on the registration process.
+1. Evaluate the impact of removing the image to minimize distraction and improve the focus on the registration process.
 
 2. Assess the effectiveness of repositioning the registration form to ensure it captures user attention and encourages prompt interaction.
 
