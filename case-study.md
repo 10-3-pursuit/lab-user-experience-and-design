@@ -24,3 +24,6 @@
 
 3. Good UX findings:
    eBay makes shopping easy with lots of details about the products that they offer. They also have a search bar that helps simplify searching for items to buy. Their checkout process is also pretty standard where they show what you have in your cart, the subtotal and the total of the entire cart
+
+4. Bad UX findings:
+   eBay's website can be confusing. The way things look and work can be different when you're in different parts of the website.Since they are a desktop first app, their mobile app design isn't the best.
