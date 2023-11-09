@@ -20,7 +20,7 @@
 
 ## Recommendations
 
-- A simplified version of the current interface. Making it easier fir the user to navigate the website. Currently feels like the user is being pulled in many directions
+- A simplified version of the current interface. Making it easier for the user to navigate the website. Currently feels like the user is being pulled in many directions
 - Improving the search algorithm so that it focuses more on what the user is actually looking for
 - A website such as Amazon is a perfect example
 
