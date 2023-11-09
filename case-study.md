@@ -12,6 +12,7 @@ Match between system and the real world: the words "Sign in", "Daily Deal", "Hel
 ## Bad UX Findings
 User control and freedom: Ebay has an active/moving banner that advertises different products for purchase. Instead of allowing the user to navigate the products being shown, Ebay displays different products to the user by force.
 
+Aesthetic and minimalist design: there are a lot of advertised products in the landing page. These competing products take away from each other and from the user's desire to search for an item that they need.
 
 ## Impact Assessment
 
