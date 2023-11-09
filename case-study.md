@@ -27,3 +27,6 @@
 
 4. Bad UX findings:
    eBay's website can be confusing. The way things look and work can be different when you're in different parts of the website.Since they are a desktop first app, their mobile app design isn't the best.
+
+5. Impact Assessment:
+   The effects that bad UX on eBay can cost them a low conversion. Having a hard time navigating a website can turn them away and prompt them to find a more simple website where the steps to find an items and place it for checkout would take a shorter time.
