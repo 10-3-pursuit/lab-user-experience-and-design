@@ -15,6 +15,7 @@ The primary objectives of this case study were to:
 2. Assess the effectiveness of repositioning the registration form to ensure it captures user attention and encourages prompt interaction.
 
 3. Measure the improvement in registration completion rates.
+
 4. Identify and address any remaining barriers to a smooth and efficient registration journey.
 
 ## Methodology
@@ -105,7 +106,7 @@ While this redesign has shown promising results, we should continue to monitor t
 ## Conclusion
 The strategic redesign of the registration page has yielded significant improvements in user experience.
 
-The removal of the image has effectively reduced distraction levels, enabling users to maintain their focus on the registration process. Additionally, the optimized placement of the registration form, drawing user attention from the outset, has streamlined the registration journey and encouraged prompt interaction.
+The removal of the image has effectively reduced distraction levels, enabling users to maintain their focus on the registration process. Additionally, the optimized placement of the registration form has streamlined the registration journey.
 
 These design adjustments have resulted in an increase in registration completion rates, which support our objective to enhance the user experience. The data from usability testing, surveys, and web analytics support these outcomes.
 
