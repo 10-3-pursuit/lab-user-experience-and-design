@@ -18,7 +18,7 @@ To submit your assignment, make a `pull request` and paste your `pull request UR
 
 User Experience and User Interface are two valuable parts of the software devlopment process. You've learned about [User Experience](https://blog.hubspot.com/marketing/ux-user-experience)
 
-Take a look at this article on [How Long Users Stay on Websites](https://www.nngroup.com/articles/how-long-do-users-stay-on-web-pages/) as well as [Deceptive Patterns](https://darkpatterns.org/). (_Dark patterns are deceptive designs in a user interface that trick users into doing things._)
+Take a look at this article on [How Long Users Stay on Websites](://www.httpsnngroup.com/articles/how-long-do-users-stay-on-web-pages/) as well as [Deceptive Patterns](https://darkpatterns.org/). (_Dark patterns are deceptive designs in a user interface that trick users into doing things._)
 
 ### Part 2 - Research
 
@@ -39,8 +39,8 @@ Take a look at the sites above and notice what makes these sites successful and 
 Below are examples of a UX Case Study Analyses.
 
 Investigate and note the structure of or more of these Case Studies
-
-1. [Jambb](https://www.finna.wang/jambb)
+jambb
+1. [Jambb](https://www.finna.wang/)
 1. [Memento](https://mahsakeyhani.com/memento.html)
 1. [Perfect Recipes App](https://blog.tubikstudio.com/case-study-recipes-app-ux-design/)
 
